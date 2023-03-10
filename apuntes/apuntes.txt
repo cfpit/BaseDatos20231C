@@ -1,0 +1,33 @@
+
+	Trayecto Programador 
+
+		--> Base de datos (1 vez x semana)
+		--> Tecnicas de Programacion --> Java (2 veces x semana)
+		--> Programacion Orientada a Objetos (3 veces x semana)
+		--> Seminario de Relaciones Laborales
+
+	titulo: Programador (validez nacional)
+----------------------------------------------------------------
+
+	Especializacion Web
+		--> Desarrollo de Aplicaciones web (backend)
+		--> Interface Grafica web (frontend)
+		--> Gestion de Base de Datos
+
+	Especializacion Base de Datos
+		--> Gestion de Base de Datos
+		--> Administracion de Base de Datos
+
+
+-------------------------------------------------
+
+Cliente administrativo de bases mySQL  --> MySQL Workbench --> mysql.com 
+
+Emulador de Servidor Web  --> XAMPP --> xampp.org
+
+Instalacion
+
+1) XAMPP
+1) MySQL Workbench
+
+
